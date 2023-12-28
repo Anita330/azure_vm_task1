@@ -1,0 +1,1 @@
+azure vm task, which will create vm, security group, public ip, blob storage and network interface and print the public ip into public_ip.txt file and store it it blob storage
