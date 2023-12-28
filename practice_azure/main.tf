@@ -30,10 +30,7 @@ module "security" {
    depends_on           = [ module.vnet ]
 }
 
-module "my_nic" {
-    source               = "./modules/nic"
-    
-  }
+
 
 
  module "myvm" {
